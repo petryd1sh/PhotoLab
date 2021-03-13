@@ -1,0 +1,10 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+/.idea/.idea.PhotoLab/.idea/.gitignore
+/.idea/.idea.PhotoLab/.idea/encodings.xml
+/.idea/.idea.PhotoLab/.idea/indexLayout.xml
+/.idea/.idea.PhotoLab/.idea/misc.xml
+/.idea/.idea.PhotoLab/.idea/vcs.xml
