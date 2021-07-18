@@ -49,6 +49,11 @@ namespace PhotoLab
                         }
                     }
                 }
+                else
+                {
+                    Console.WriteLine($"Skipping Resize, copying file {photoName}\n");
+                    File.Copy(WorkingDirectory + @"\"+ photoName + ".jpg", outputDirectory + photoName + "-resized.jpg");
+                }
             }
             
         }
